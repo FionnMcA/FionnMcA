@@ -1,4 +1,4 @@
-### Hi there, My name is Fionn 👋
+### Hi there, my name is Fionn 👋
 - 👨‍💻 I’m currently studying Computer Science and Information Technology at University of Galway
 - 📫 How to reach me: f.mcardle1@nuigalway.ie
 <!--
