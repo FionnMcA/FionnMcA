@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there, My name is Fionn 👋
+- 👨‍💻 I’m currently studying Computer Science and Information Technology at University of Galway
+- 📫 How to reach me: f.mcardle1@nuigalway.ie
 <!--
 **FionnMcA/FionnMcA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
